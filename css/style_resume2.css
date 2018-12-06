@@ -592,7 +592,6 @@ li {
     -moz-font-family: var(--fontFamilyVT323);
     -o-font-family: var(--fontFamilyVT323);
 
-    background: rgba(0, 0, 255, 0.4);
 }
 
 .text div {
@@ -607,7 +606,6 @@ li {
     -moz-text-align: center;
     -o-text-align: center;
 
-    background: rgba(255, 0, 0, 0.4);
 }
 
 .text p {
@@ -628,7 +626,6 @@ li {
     -moz-text-align: center;
     -o-text-align: center;
 
-    background: rgba(255, 0, 0, 0.4);
 }
 
 .text-description {
